@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    margin:20px;
+    background-color: antiquewhite;
+}
+main{
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+table{
+    /* display: flex;
+    justify-content: center; */
+    /* border: 2px; */
+    border-style: solid;
+    margin: 30px 43%;
+    /* padding: 40px 50%; */
+}
+/* td{
+    min-width: 200px;
+} */
+.button{
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    text-align: center;
+    background-color: bisque;
+}
